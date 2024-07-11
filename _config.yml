@@ -1,2 +1,6 @@
-theme: minima
+theme: jekyll-theme-cayman 
+#other options
+  #jekyll-theme-slate
+  #minima
+
 title: Deep Learning for Emotion Cased-based Explanations through Spectrogram Prototypes
